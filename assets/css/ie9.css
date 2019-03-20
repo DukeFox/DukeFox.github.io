@@ -1,0 +1,35 @@
+/* Basic */
+
+	body {
+		background-image: url("//img.alicdn.com/imgextra/i1/1805656773/TB2n5MSbR0kpuFjy1zdXXXuUVXa_!!1805656773.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: bottom center;
+		background-attachment: fixed;
+	}
+
+		body:after {
+			display: none;
+		}
+
+/* List */
+
+	ul.icons li a:before {
+		color: #c8cccf;
+	}
+
+	ul.icons li a:hover:before {
+		color: #ff7496;
+	}
+
+/* Wrapper */
+
+	#wrapper {
+		text-align: center;
+	}
+
+/* Main */
+
+	#main {
+		display: inline-block;
+	}
