@@ -9,3 +9,4 @@ Copyright (c) 2018-2019 HTML5 UP.
 
 Weibo Images Track is derived form <https://github.com/gongpeione/wbimg2wb>
 
+Useragent analysis tool form <https://github.com/mumuy/browser>
