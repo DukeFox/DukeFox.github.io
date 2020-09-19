@@ -10,3 +10,5 @@ Copyright (c) 2018-2019 HTML5 UP.
 Weibo Images Track is derived form <https://github.com/gongpeione/wbimg2wb>
 
 Useragent analysis tool form <https://github.com/mumuy/browser>
+
+Unlock Music - Unlock encrypted music file in browser. <https://github.com/ix64/unlock-music>
